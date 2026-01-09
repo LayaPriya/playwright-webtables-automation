@@ -19,8 +19,7 @@ https://demoqa.com/webtables
 - Post-delete validation
 
 ## Setup Instructions
-
-1. Clone the repository
+Clone the repository
 git clone <repo-url>
 Install dependencies
 npm install
